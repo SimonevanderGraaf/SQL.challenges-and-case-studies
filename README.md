@@ -1,1 +1,2 @@
-# SQL.challenges-and-case-studies
+# Sources
+[- Murder Mystery challenge](https://mystery.knightlab.com/walkthrough.html)
